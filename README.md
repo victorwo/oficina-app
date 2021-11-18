@@ -4,5 +4,5 @@ Esse projeto tem como objetivo exibir os orçamentos feitos pelos vendedores da 
 
 Na organização do repositório, coloquei os arquios de index.html e o favicon.ico na pasta public. Todos os outros arquivos, por outro lado, foram colocados na pasta src.
 
-Utilizei o Axios para fazer à requisição para APi. Antes de poder rodar o programa é necessário instála-lo.
+Utilizei o Axios para fazer a requisição para a API. Antes de poder rodar o programa é necessário instála-lo.
 O axios pode ser instalado com o comando: $ npm install axios
